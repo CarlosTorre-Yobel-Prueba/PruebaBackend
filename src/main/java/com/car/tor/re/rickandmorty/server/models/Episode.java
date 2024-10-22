@@ -4,7 +4,6 @@
  */
 package com.car.tor.re.rickandmorty.server.models;
 
-import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -16,14 +15,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class CharacterResponse {
-    private int id;
+public class Episode {
     private String name;
-    private String status;
-    private String species;
-    private Location location;
-    //private List<String> episode;
-    private String firstEpisode;
-    private String imageLink;
-    
+    //private String episodeNum;
 }
