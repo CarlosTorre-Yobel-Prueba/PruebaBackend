@@ -1,5 +1,6 @@
 com\car\tor\re\rickandmorty\server\models\CharacterResponse.class
 com\car\tor\re\rickandmorty\server\models\Location.class
+com\car\tor\re\rickandmorty\server\models\CharacterApiResponse.class
 com\car\tor\re\rickandmorty\server\models\Result.class
 com\car\tor\re\rickandmorty\server\models\Episode.class
 com\car\tor\re\rickandmorty\server\models\ApiResponse.class
